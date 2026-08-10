@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-izu32l.jambul126.xyz/sitemap.xml
